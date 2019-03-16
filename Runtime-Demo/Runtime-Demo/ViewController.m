@@ -22,7 +22,13 @@
     [super viewDidLoad];
     
     [self sendMessage];
-    
+    //1
+    //2
+    //3
+    //4
+    //5
+    //7
+
 }
 
 //换个方式调用方法
