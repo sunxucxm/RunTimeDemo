@@ -25,6 +25,7 @@
     master 1
     master 2
     master 3
+    sunxu  4
 }
 
 //换个方式调用方法
