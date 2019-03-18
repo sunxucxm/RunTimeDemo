@@ -23,6 +23,7 @@
     
     [self sendMessage];
     master 1
+    master 2
 }
 
 //换个方式调用方法
