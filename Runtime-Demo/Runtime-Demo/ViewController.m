@@ -22,7 +22,7 @@
     [super viewDidLoad];
     
     [self sendMessage];
-    
+    master 1
 }
 
 //换个方式调用方法
